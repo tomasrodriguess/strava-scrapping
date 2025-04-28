@@ -1,0 +1,20 @@
+important_data = [
+    'distance',
+    'moving_time',
+    'elapsed_time',
+    'total_elevation_gain',
+    'type',
+    'start_date',
+    'max_speed',
+    'average_speed',
+    'average_cadence',
+    'average_watts',
+    'max_watts',
+    'weighted_average_watts',
+    'device_watts',
+    'kilojoules',
+    'elev_high',
+    'elev_low',
+    'average_heartrate',
+    'max_heartreate'
+    ]  
